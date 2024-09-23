@@ -62,7 +62,16 @@ do # Début de la boucle while
             ;;
          "Ajouter au minimum un aspect de votre choix")
             echo "Votre choix : 6"
-            ;;                
+            ;;
+	"Voir la modification 1")
+            echo "Votre choix : 7"
+	    ;;
+     	"Voir la modification 2")
+            echo "Votre choix : 8"
+	    ;;
+     	"Voir la modification 3")
+            echo "Votre choix : 9"
+	    ;;
         "Quitter")
             echo "Au revoir!"
             exit # Sortir du script
