@@ -73,7 +73,7 @@ do # Début de la boucle while
 	    ;;
      	"Voir la modification 3")
             echo "Votre choix : 9"
-            echo "Vous avez maintenant de la chance pour les 24h prochaines heures."
+            echo "Vous avez maintenant de la chance pour les 48h prochaines heures!"
             echo "C'est le temps d'aller prendre un billet de loto!"
 	    ;;
         "Quitter")
