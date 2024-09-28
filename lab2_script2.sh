@@ -63,14 +63,18 @@ do # Début de la boucle while
          "Ajouter au minimum un aspect de votre choix")
             echo "Votre choix : 6"
             ;;
-	"Voir la modification 1")
+	    "Voir la modification 1")
             echo "Votre choix : 7"
 	    ;;
      	"Voir la modification 2")
             echo "Votre choix : 8"
+            echo "Finalement c'est ce choix ci qui donne de la chance, et pour 7 jours!"
+            echo "Planifier des plus gros projets, ca va réussir!"
 	    ;;
      	"Voir la modification 3")
             echo "Votre choix : 9"
+            echo "Vous avez maintenant de la chance pour les 48h prochaines heures!"
+            echo "C'est le temps d'aller prendre un billet de loto!"
 	    ;;
         "Quitter")
             echo "Au revoir!"
