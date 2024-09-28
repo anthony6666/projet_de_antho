@@ -68,6 +68,8 @@ do # Début de la boucle while
 	    ;;
      	"Voir la modification 2")
             echo "Votre choix : 8"
+            echo "Finalement c'est ce choix ci qui donne de la chance, et pour 7 jours!"
+            echo "Planifier des plus gros projets, ca va réussir!"
 	    ;;
      	"Voir la modification 3")
             echo "Votre choix : 9"
